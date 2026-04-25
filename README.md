@@ -1,3 +1,7 @@
+![النتائج الميكانيكية لنموذج بالرمضان](images/result.png)
+
+
+
 # Berramdane-Model-V8.1
 # Berramdane Model V8.1 – A Mechanical Interpretation of Double‑Slit Interference, Observer Effect, and Tunneling
 
