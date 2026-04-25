@@ -3,7 +3,8 @@
 
 **Author:** Al Moalim Berramdane (workshop owner, mechanical manufacturing & IT technician)  
 **License:** CC BY 4.0  
-**GitHub:** (رابط المستودع الخاص بك)
+**GitHub:** 
+https://github.com/reddoma742/Berramdane-Model-V8.1.git
 
 ## Overview
 
